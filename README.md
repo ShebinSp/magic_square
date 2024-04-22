@@ -1,7 +1,7 @@
 # Magic Square Checker
 
 ## Description
-This program checks whether the given matrix is a magic square or not. A magic square is a square matrix where the sum of the numbers in each row, each column, and both main diagonals is the same. If the given matrix is a magic square, it prints "You have the Magic Square!", otherwise, it prints "Sorry.. its not a Magic Square, but its cool.. Please try again!".
+This program checks whether the given matrix is a magic square or not, once you have magic square the program exits or continues otherwise. A magic square is a square matrix where the sum of the numbers in each row, each column, and both main diagonals is the same. If the given matrix is a magic square, it prints "You have the Magic Square!", otherwise, it prints "Sorry.. its not a Magic Square, but its cool.. Please try again!".
 
 ## Features
 - Checks whether the given matrix is a magic square or not.
