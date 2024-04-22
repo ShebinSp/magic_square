@@ -6,7 +6,7 @@ This program checks whether the given matrix is a magic square or not. A magic s
 ## Features
 - Checks whether the given matrix is a magic square or not.
 - User-friendly interface.
-- Written in C.
+- Written in Go.
 
 ## How to Use
 1. Clone the repository:
