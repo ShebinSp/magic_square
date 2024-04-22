@@ -11,7 +11,7 @@ This program checks whether the given matrix is a magic square or not, once you 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ShebinSp/magic-square-checker.git
+   git clone https://github.com/ShebinSp/magic_square.git
  * To stop the program press `ctrl + c`
 
 ## Example
