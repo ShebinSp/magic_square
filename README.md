@@ -17,15 +17,15 @@ This program checks whether the given matrix is a magic square or not, once you 
 ## Example
 Enter the size of the matrix: 3  
 Enter the elements in the matrix:  
-1 1: 8  
-1 2: 3  
-1 3: 4  
-2 1: 1  
-2 2: 5  
-2 3: 9  
-3 1: 6  
-3 2: 7  
-3 3: 2  
+1 - 1: 8  
+1 - 2: 3  
+1 - 3: 4  
+2 - 1: 1  
+2 - 2: 5  
+2 - 3: 9  
+3 - 1: 6  
+3 - 2: 7  
+3 - 3: 2  
        
        !!!You got the MAGIC BOX!!!
 
