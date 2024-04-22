@@ -46,7 +46,7 @@ reset:
 		}
 	}
 	if magic > 0 {
-		fmt.Printf("\n  yoo!!\n")
+		fmt.Printf("\n  yes!!\n")
 		fmt.Println("       :---------------------------------:")
 		fmt.Println("       |*                               *|")
 		fmt.Println("       | !!!You have the MAGIC SQUARE!!! |")
