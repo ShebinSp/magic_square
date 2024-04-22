@@ -25,7 +25,7 @@ reset:
 	fmt.Println("-> Enter the elements in the matrix:")
 	for i = 0; i < n; i++ {
 		for j = 0; j < n; j++ {
-			fmt.Printf("%d %d: ", i+1, j+1)
+			fmt.Printf("%d - %d: ", i+1, j+1)
 			fmt.Scanln(&ar[i][j])
 			soc[i], sor[i] = 0, 0
 		}
