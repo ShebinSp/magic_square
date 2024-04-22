@@ -24,7 +24,7 @@ Enter the elements in the matrix: ->
 2 2:-> 5  |  
 2 3:-> 9  |  
 3 1:-> 6  |  
-3 2:-> 7  |
+3 2:-> 7  
 3 3:-> 2  |
        
        !!!You got the MAGIC BOX!!!
