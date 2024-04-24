@@ -11,10 +11,11 @@ func main() {
 	}
 }
 func magicSquare() {
-	var i, j, n, ldsum, rdsum, magic int
+	var i, j, n, ldsum, rdsum int
 	var ar [30][30]int
 	var sor [10]int
 	var soc [10]int
+	magic := false
 reset:
 	fmt.Print("\n-> Enter the size of the Magic Square (2 for 2x2 , 3 for 3x3): ")
 	fmt.Scanln(&n)
@@ -42,10 +43,10 @@ reset:
 			}
 		}
 		if rdsum == sor[i] && ldsum == soc[i] {
-			magic++
+			magic = true
 		}
 	}
-	if magic > 0 {
+	if magic {
 		fmt.Printf("\n  yes!!\n")
 		fmt.Println("       :---------------------------------:")
 		fmt.Println("       |*                               *|")
