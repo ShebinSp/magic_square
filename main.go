@@ -2,10 +2,6 @@ package main
 
 import "fmt"
 
-var i, j, n, ldsum, rdsum, magic int
-var ar [30][30]int
-var sor [10]int
-var soc [10]int
 var isExit = false
 
 func main() {
@@ -15,6 +11,10 @@ func main() {
 	}
 }
 func magicSquare() {
+	var i, j, n, ldsum, rdsum, magic int
+	var ar [30][30]int
+	var sor [10]int
+	var soc [10]int
 reset:
 	fmt.Print("\n-> Enter the size of the Magic Square (2 for 2x2 , 3 for 3x3): ")
 	fmt.Scanln(&n)
