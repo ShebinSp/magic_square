@@ -55,7 +55,7 @@ reset:
 		fmt.Println()
 		isExit = true
 	} else {
-		fmt.Println("I am sorry.. it is a not a Magic Square, but thats cool..")
+		fmt.Println("Sorry.. it is a not a Magic Square, but thats cool..")
 		fmt.Println("                   Please try again!")
 		fmt.Printf("\n\n\n")
 	}
